@@ -6,7 +6,7 @@ auto: true
 loop: true
 ---
 
-* ![A nice pic of mine]({{ site.base }}/files/japan/japan/japan01.jpg)
+* ![A nice pic of mine]({{ site.base }}files/japan/japan/japan01.jpg)
 * ![Another nice pic of mine](my-pics1/pic2.jpg)
 * ![Another nice pic of mine](my-pics1/pic3.jpg)
 * ![Another nice pic of mine](my-pics1/pic4.jpg)
