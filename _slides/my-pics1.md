@@ -6,8 +6,8 @@ auto: true
 loop: true
 ---
 
-* ![A nice pic of mine](isaacmc.github.io/files/japan/japan/japan01.jpg)
-* ![Another nice pic of mine](my-pics1/pic2.jpg)
+* ![A nice pic of mine](my-pics1/japan/japan01-1.jpg)
+* ![Another nice pic of mine](my-pics1/japan/japna02.jpg)
 * ![Another nice pic of mine](my-pics1/pic3.jpg)
 * ![Another nice pic of mine](my-pics1/pic4.jpg)
 * # A text slide
